@@ -8,9 +8,9 @@ Projeto de Extensão Comunitária
 Desenvolvimento de um MPV (Mínimo Produto Viável) de software para gestão de uma organização
 
 Integrantes do Projeto:
-Luis Felipe Rodrigues Galan
-Arthur Alves
-Fabricio Leandro Inácio de Deus
+Luis Felipe Rodrigues Galan,
+Arthur Alves,
+Fabricio Leandro Inácio de Deus,
 João Almeida Cacais
 
 São José do Rio Preto
