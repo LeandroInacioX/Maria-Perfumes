@@ -9,7 +9,7 @@ Desenvolvimento de um MPV (Mínimo Produto Viável) de software para gestão de 
 
 Integrantes do Projeto:
 Luis Felipe Rodrigues Galan
-Arthur Scrignolli Alves
+Arthur Alves
 Fabricio Leandro Inácio de Deus
 João Almeida Cacais
 
